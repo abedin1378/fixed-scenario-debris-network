@@ -11,3 +11,4 @@ pandas
 shapely
 streamlit-folium
 xlsxwriter
+scipy
