@@ -958,8 +958,8 @@ st.write(
 )
 
 servers = {
-    "Germany (پایدار)": "https://overpass-api.de/api/interpreter",
-    "Kumi Systems": "https://overpass.kumi.systems/api/interpreter",
+    "Germany (پایدار)": "https://overpass-api.de/api",
+    "Kumi Systems": "https://overpass.kumi.systems/api",
 }
 selected_server_name = st.selectbox("انتخاب سرور دانلود:", list(servers.keys()))
 selected_server_url = servers[selected_server_name]
