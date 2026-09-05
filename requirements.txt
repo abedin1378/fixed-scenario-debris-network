@@ -1,0 +1,13 @@
+streamlit
+certifi
+contextily
+folium
+geopandas
+matplotlib
+networkx
+numpy
+osmnx
+pandas
+shapely
+streamlit-folium
+xlsxwriter
